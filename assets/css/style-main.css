@@ -6,6 +6,31 @@
 .logo,.menu{
 	padding: 1rem;
 }
-.search {
+.diva {
 	display: flex;
+}
+
+.Paizao {
+	margin-top: 1rem;
+    background-color: #f8f8f8;
+    height: 2rem;
+}
+
+.divb {
+    color: #a0a0a0;
+    font-size: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.textoaqui {
+	display: flex;
+	height: 2rem;
+	width: 100%;
+	height: 60px;
+}
+
+.caixa {
+	width: 90%;
 }
