@@ -16,7 +16,7 @@
 
 .Paizao {
 	
-	height: 2rem;
+	position: fixed;
 	width: 100%;
 	margin-top: 1rem;
 	margin-left: 5%;
@@ -35,12 +35,12 @@
 
 .textoaqui {
 	display: flex;
-	height: 2rem;
+	height: 3rem;
 	width: 100%;
-	height: 60px;
 }
 
 .caixa {
+	font-size: 2rem;
 	width: 90%;
 }
 
