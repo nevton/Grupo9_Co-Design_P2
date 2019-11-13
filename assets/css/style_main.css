@@ -43,3 +43,8 @@
 .caixa {
 	width: 90%;
 }
+
+.body {
+	position: fixed;
+	width: 100%;
+}
