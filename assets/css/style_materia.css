@@ -1,0 +1,8 @@
+.header {
+	background-color: #475053;
+	display: flex;
+	justify-content: space-between;
+}
+.logo,.menu{
+	padding: 1rem;
+}
