@@ -11,9 +11,14 @@
 }
 
 .Paizao {
+	
+	height: 2rem;
+	width: 100%;
 	margin-top: 1rem;
+	margin-left: 5%;
+	margin-right: 5%;
     background-color: #f8f8f8;
-    height: 2rem;
+
 }
 
 .divb {
