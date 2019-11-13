@@ -3,8 +3,12 @@
 	display: flex;
 	justify-content: space-between;
 }
-.logo,.menu{
+.logo{
 	padding: 1rem;
+}
+.menu{
+	padding: 1rem;
+	margin-right: 0rem;
 }
 .diva {
 	display: flex;
