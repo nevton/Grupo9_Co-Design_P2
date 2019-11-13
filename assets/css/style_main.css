@@ -43,6 +43,8 @@
 .caixa {
 	font-size: 2rem;
 	width: 90%;
+	background-color: #f0f0f0;
+	text-indent: 0.5rem;
 }
 
 .body {
