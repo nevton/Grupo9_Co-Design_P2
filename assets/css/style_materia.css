@@ -25,3 +25,21 @@
 	margin-top: 1.5rem;
 	margin-left: 1rem;
 }
+
+.container {
+	display: flex;
+	flex-direction: column;
+	font-size: 5rem;
+	justify-content: center;
+	text-align: center;
+}
+
+.prof {
+	background-color: red;
+	margin: 1rem;
+}
+
+.turma
+
+.forum
+
