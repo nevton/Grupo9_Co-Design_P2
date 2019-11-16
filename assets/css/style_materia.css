@@ -32,14 +32,36 @@
 	font-size: 5rem;
 	justify-content: center;
 	text-align: center;
+	background-color: grey;
 }
 
 .prof {
-	background-color: red;
-	margin: 1rem;
+	background-color: blue;
+	margin: 5rem;
+	border-radius: 5rem;
+	height: 15rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 }
 
-.turma
+.turma {
+	background-color: blue;
+	margin: 5rem;
+	border-radius: 5rem;
+	height: 15rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
 
-.forum
+.forum {
+	background-color: blue;
+	margin: 5rem;
+	border-radius: 5rem;
+	height: 15rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
 
