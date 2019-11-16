@@ -36,8 +36,9 @@
 
 .textoaqui {
 	display: flex;
-	height: 3rem;
+	height: 5rem;
 	width: 100%;
+	margin-top: 1rem;
 }
 
 .caixa {
@@ -51,3 +52,4 @@
 	position: fixed;
 	width: 100%;
 }
+
