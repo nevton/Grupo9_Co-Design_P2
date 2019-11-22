@@ -39,20 +39,21 @@
 	background-color: #2867b2;
 	margin: 0.5rem;
 	border-radius: 1rem;
-	height: 7rem;
+	height: 10rem;
 	display: flex;
 	flex-direction: row;
-	justify-content: center;
 	text-align:center ;
 }
 
 .prof_img{
-	margin: 0.5rem;
+	margin-top: 1rem;
+	margin-left: 1rem;
 	border-radius: 4rem;
-	height:6rem ;
+	height:8rem ;
 }
 .prof_test{
-	margin-top: 2rem;
+	margin-top: 3.5rem;
+	margin-left: 1rem;
 	
 }
 
