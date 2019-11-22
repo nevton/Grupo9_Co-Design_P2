@@ -1,0 +1,15 @@
+.header {
+	background-color: #475053;
+	display: flex;
+	justify-content: space-between;
+}
+.logo{
+	padding: 1rem;
+}
+.menu{
+	padding: 1rem;
+	margin-right: 0rem;
+}
+.diva {
+	display: flex;
+}
