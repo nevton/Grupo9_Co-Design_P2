@@ -3,12 +3,13 @@
 	display: flex;
 	justify-content: space-between;
 }
+
 .logo {
 	padding: 1rem;
 }
+
 .menu {
 	padding: 1rem;
-
 }
 
 .materia {
@@ -36,7 +37,7 @@
 
 .prof {
 	background-color: #2867b2;
-	margin: 1rem;
+	margin: 0.5rem;
 	border-radius: 1rem;
 	height: 7rem;
 	display: flex;
@@ -50,10 +51,14 @@
 	border-radius: 4rem;
 	height:6rem ;
 }
+.prof_test{
+	margin-top: 2rem;
+	
+}
 
 .turma {
 	background-color: #2867b2;
-	margin: 1rem;
+	margin: 0.5rem;
 	border-radius: 1rem;
 	height: 7rem;
 	display: flex;
@@ -63,7 +68,7 @@
 
 .forum {
 	background-color: #2867b2;
-	margin: 1rem;
+	margin: 0.5rem;
 	border-radius: 1rem;
 	height: 7rem;
 	display: flex;
