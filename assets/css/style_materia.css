@@ -29,7 +29,7 @@
 .container {
 	display: flex;
 	flex-direction: column;
-	font-size: 3rem;
+	font-size: 2.8rem;
 	justify-content: center;
 	text-align: center;
 	background-color: #ffffff;
@@ -37,48 +37,99 @@
 
 .prof {
 	background-color: #2867b2;
-	margin: 0.5rem;
 	border-radius: 1rem;
 	height: 10rem;
+	width: 95%;
+	left: 2.5%;
 	display: flex;
 	flex-direction: row;
 	text-align:center ;
+	position: absolute;
+	top: 15%;
 }
 
 .prof_img{
-	margin-top: 1rem;
-	margin-left: 1rem;
 	border-radius: 4rem;
+	position: absolute;
+	top: 10%;
+	left: 3%;
 	height:8rem ;
 }
+
 .prof_test{
-	margin-top: 3.5rem;
-	margin-left: 1rem;
+	position: absolute;
+	top: 35%;
+	right: 12%;
 }
 
 .prof_arrow{
-	margin-right: 0.5rem;
-	margin-left: 2rem;
-	margin-top: 3.8rem;
+	position: absolute;
+	top: 38%;
+	right: 3%;
 }
 
 .turma {
 	background-color: #2867b2;
-	margin: 0.5rem;
 	border-radius: 1rem;
 	height: 10rem;
+	width: 95%;
+	left: 2.5%;
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	flex-direction: row;
+	text-align:center ;
+	position: absolute;
+	top: 38%;
+}
+.turma_img{
+	border-radius: 4rem;
+	position: absolute;
+	top: 10%;
+	left: 3%;
+	height:8rem ;
+}
+
+.turma_test{
+	position: absolute;
+	top: 35%;
+	right: 20%;
+}
+
+.turma_arrow{
+	position: absolute;
+	top: 38%;
+	right: 3%;
 }
 
 .forum {
 	background-color: #2867b2;
-	margin: 0.5rem;
 	border-radius: 1rem;
 	height: 10rem;
+	width: 95%;
+	left: 2.5%;
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	flex-direction: row;
+	text-align:center ;
+	position: absolute;
+	top: 61%;
+}
+
+.forum_img{
+	border-radius: 4rem;
+	position: absolute;
+	top: 10%;
+	left: 3%;
+	height:8rem ;
+}
+
+.forum_test{
+	position: absolute;
+	top: 35%;
+	right: 28%;
+}
+
+.forum_arrow{
+	position: absolute;
+	top: 38%;
+	right: 3%;
 }
 
