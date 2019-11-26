@@ -47,7 +47,7 @@
 	position: absolute;
 	top: 8%;
 	animation-name: fadeAnimation;
-	animation-duration: 1.2s;
+	animation-duration: 0.8s;
 }
 
 .prof_img{
@@ -84,7 +84,7 @@
 	position: absolute;
 	top: 26%;
 	animation-name: fadeAnimation;
-	animation-duration: 1.2s;
+	animation-duration: 0.8s;
 }
 .turma_img{
 	border-radius: 4rem;
@@ -118,7 +118,7 @@
 	position: absolute;
 	top: 44%;
 	animation-name: fadeAnimation;
-	animation-duration: 1.2s;
+	animation-duration: 0.8s;
 }
 
 .forum_img{
