@@ -96,6 +96,10 @@
 	right: 3%;
 
 }
+.botao{
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
 
 .turma {
 	background-color: #2867b2;
