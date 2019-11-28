@@ -19,7 +19,7 @@
   background-color: #F1F1F1;
   overflow-x: hidden;
   transition: 0.5s;
-  padding-top: 60px;
+  padding-top: 10rem;
 }
 
 .sidenav a {
@@ -27,8 +27,9 @@
   font-size: 4rem;
   color: #white;
   display: flex;
+  flex-direction: row-reverse;
   transition: 0s;
-  margin-top: 2rem;
+  margin: 2rem;
 }
 
 .sidenav a:hover {
@@ -39,7 +40,8 @@
   position: absolute;
   top: 0;
   font-size: 5rem;
-  right: 0;
+  right: 1rem;
+  padding: 1rem;
 }
 
 </STYLE>
@@ -94,7 +96,7 @@
     </div>
     <script>
 function openNav() {
-  document.getElementById("mySidenav").style.width = "400px";
+  document.getElementById("mySidenav").style.width = "300px";
 }
 
 function closeNav() {
