@@ -37,6 +37,9 @@
 	height: 12rem;
 	width: 95%;
 	left: 2.5%;
+	flex-direction: row;
+	text-align:center ;
+	position: absolute;
 	top: 9%;
 	animation-name: fadeAnimation;
 	animation-duration: 0.8s;
