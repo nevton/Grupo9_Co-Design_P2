@@ -1,0 +1,23 @@
+.header {
+	background-color: #475053;
+	display: flex;
+	justify-content: space-between;
+}
+
+.menu {
+	padding: 1rem;
+}
+
+.materia {
+	font-size: 4.8rem;
+	color: #2867b2;
+	margin-top: 0.1rem;
+	margin-bottom: 0.1rem;
+}
+
+.home_button {
+	height: 11%;
+	width: 11%;
+	margin-left: 0.6rem;
+	margin-top: 0.6rem;
+}
