@@ -132,3 +132,52 @@ img{
 	float: right;
 
 }
+.msg-bottom{
+	background-color: #0076bc;
+	position: relative;
+	height: 10%;
+    border-bottom: 1px solid black;
+}
+
+.input-group{
+	float: right;
+	margin-top: 13px;
+	margin-right: 20px;
+	outline: none !important;
+	border-radius: 20px;
+	width: 61% !important;
+	background-color: #fff;
+}
+
+.form-control{
+	/*border: none !important;*/
+	border-radius: 20px !important;
+}
+
+.input-group-text{
+	background: transparent !important;
+	border: none !important;
+}
+
+.input-group .fa{
+	color: #004670;
+	float: right;
+}
+
+.bottom-icons{
+	float: left;
+	margin-top: 17px;
+	width: 30% !important;
+	margin-left: 22px;
+}
+
+.bottom-icons .fa{
+	color: #004670;
+	padding: 5px;
+}
+.form-control:focus{
+	border-color: none !important;
+	box-shadow: none !important;
+	border-radius: 20px;
+}
+
