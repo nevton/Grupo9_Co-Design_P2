@@ -59,6 +59,7 @@
 	width: 90%;
 	background-color: #f0f0f0;
 	text-indent: 0.5rem;
+	border-radius: 2rem;
 }
 
 .body {
@@ -105,7 +106,9 @@
 	left: 40%;
 
 }
-
+.lupa{
+	margin: 
+}
 .prof_arrow{
 	position: absolute;
 	top: 38%;
@@ -115,6 +118,7 @@
 .botao{
 	padding-left: 1rem;
 	padding-right: 1rem;
+	border-radius: 2rem;
 }
 
 .turma {
