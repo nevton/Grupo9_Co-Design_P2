@@ -37,6 +37,16 @@ img{
 	margin-top: 12px;
 	float: left;
 }
+.back{
+	float: left;
+	margin-top: 10px;
+	margin-left: 1px;
+}
+.back .fa{
+	color: #fff;
+	padding: 5px;
+}
+
 .info{
 	width: 120px;
 	float: left;
@@ -56,12 +66,11 @@ img{
 .header-icons{
 	width: 120px;
 	float: right;
-	margin-top: 12px;
+	margin-top: 10px;
 	margin-right: 10px;
 }
-.header-icos .fa{
+.header-icons .fa{
 	color: #fff;
-	cursor: pointer;
 	margin: 10px;
 }
 .chat-box{
