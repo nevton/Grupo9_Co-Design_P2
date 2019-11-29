@@ -38,7 +38,6 @@
 	display: flex;
 	height: 5rem;
 	width: 100%;
-	margin-top: 1rem;
 }
 
 .caixa {
@@ -96,6 +95,10 @@
 	top: 38%;
 	right: 3%;
 
+}
+.botao{
+	padding-left: 1rem;
+	padding-right: 1rem;
 }
 
 .turma {

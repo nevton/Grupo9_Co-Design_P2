@@ -19,17 +19,17 @@
   background-color: #F1F1F1;
   overflow-x: hidden;
   transition: 0.5s;
-  padding-top: 60px;
-
+  padding-top: 10rem;
 }
 
 .sidenav a {
   text-decoration: none;
   font-size: 4rem;
   color: #white;
-  display: block;
+  display: flex;
+  flex-direction: row-reverse;
   transition: 0s;
-  padding: 1rem;
+  margin: 2rem;
 }
 
 .sidenav a:hover {
@@ -40,6 +40,8 @@
   position: absolute;
   top: 0;
   font-size: 5rem;
+  right: 1rem;
+  padding: 1rem;
 }
 
 </STYLE>
@@ -58,7 +60,7 @@
   </header>
     <div tabindex="-1" class="Paizao">
       <div class="diva">
-        <button class="botao">
+        <button class="botao" height=100%>
           <b class="_2F_Gi _3I7nT">
             <img class="lupa" src="assets/img/lupa.png" width="24" height="24">
           </b>
@@ -94,7 +96,7 @@
     </div>
     <script>
 function openNav() {
-  document.getElementById("mySidenav").style.width = "400px";
+  document.getElementById("mySidenav").style.width = "300px";
 }
 
 function closeNav() {
