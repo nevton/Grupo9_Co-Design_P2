@@ -26,7 +26,7 @@
 	height: 11%;
 	width: 11%;
 	margin-left: 0.6rem;
-	margin-top: 0.6rem;
+	margin-top: 1rem;
 }
 
 .container {
@@ -50,6 +50,12 @@
 .itemtext {
 	font-size: 4rem;
 	text-align: center;
+}
+
+.itemtextseta {
+	font-size: 4rem;
+	text-align: center;
+	font-weight: bold;
 }
 
 .textoaqui {
