@@ -28,6 +28,7 @@
 	margin-top: 1rem;
 	background-color: #f8f8f8;
 	height: 100%;
+	font-color: #ffffff;
 
 }
 
@@ -99,6 +100,7 @@
 	text-align: center;
 	background-color: #ff00ff;
 	margin: 1rem;
+	font-color: #ffffff;
 }
 
 .prof {
@@ -113,6 +115,7 @@
 	top: 24rem;
 	animation-name: fadeAnimation;
 	animation-duration: 0.8s;
+
 }
 
 .prof_img{
@@ -127,7 +130,7 @@
 	position: absolute;
 	top: 32%;
 	left: 40%;
-
+	color: #ffffff;
 }
 .lupa{
 	margin: 
@@ -167,6 +170,7 @@
 	position: absolute;
 	top: 32%;
 	left: 40%;
+	color: #ffffff;
 }
 
 .turma_arrow{
@@ -201,6 +205,7 @@
 	position: absolute;
 	top: 32%;
 	left: 40%;
+	color: #ffffff;
 }
 
 .forum_arrow{
@@ -234,6 +239,7 @@
 	position: absolute;
 	top: 32%;
 	left: 40%;
+	color: #ffffff;
 }
 
 .fisica_arrow{
@@ -268,6 +274,7 @@
 	position: absolute;
 	top: 32%;
 	left: 40%;
+	color: #ffffff;
 }
 
 .GA_arrow{
