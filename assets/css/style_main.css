@@ -35,6 +35,7 @@
 
 .filtro{
 	display: flex;
+	flex-direction: row;
 	
 
 }
