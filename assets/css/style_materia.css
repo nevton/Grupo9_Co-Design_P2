@@ -132,6 +132,42 @@
 	right: 3%;
 }
 
+.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	right: 0;
+	background-color: #F1F1F1;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 10rem;
+}
+
+.sidenav a {
+	text-decoration: none;
+	font-size: 4rem;
+	color: #white;
+	display: flex;
+	flex-direction: row-reverse;
+	transition: 0s;
+	margin: 2rem;
+}
+
+.sidenav a:hover {
+	color: #111;
+}
+
+.sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	font-size: 5rem;
+	right: 1rem;
+	padding: 1rem;
+}
+
+
 @keyframes fadeAnimation{
 	from{
 		transform: translateX(35%)
