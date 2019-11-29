@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title>Fórum</title>
+	<meta charset="utf-8"/>
+	<link href="assets/css/reset.css" rel="stylesheet">
+	<link href="assets/css/style_forum.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=EB+Garamond&display=swap" rel="stylesheet">
+	<script>
+		function openNav() {
+			document.getElementById("mySidenav").style.width = "300px";
+		}
+
+		function closeNav() {
+			document.getElementById("mySidenav").style.width = "0";
+		}
+	</script>
+
+</head>
+<body>
+	<header class="header">
+		<img class="home_button" src="assets/img/home-icon.png" alt="Home Button"  onclick="location.href='Main.html'">
+		<img class="back_button" src="assets/img/arrow_reverse.png" alt="Back Button"  onclick="location.href='materia.html'">
+		<p class="materia">Perguntas antigas</p>
+		<img class="menu" src="assets/img/menu.png" alt="Menu" style="font-size:30px;cursor:pointer" width="90" height="90" onclick="openNav()">
+		<div id="mySidenav" class="sidenav">
+			<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+			<a href="materia.html">Materias</a>
+			<a href="#">Services</a>
+			<a href="#">Clients</a>
+			<a href="#">Contact</a>
+		</div>
+	</header>
+	<main class="container">
+		<div class="search">
+			<button class="botao" onclick="location.href='forum.html'">
+				<img class="lupa" src="assets/img/lupa.png" width="60" height="60">
+			</button>
+			<label class="textoaqui">
+				<input type="text" class="caixa copyable-text selectable-text" data-tab="2" title="Search or start new chat" placeholder="No momento a barra de pesquisa está desativada." value="" spellcheck="true">
+			</label>
+		</div>
+		<div class="item">
+			<p class="itemtext">Pergunta de polinomios</p>
+			<p class="itemtextseta">>></p>
+		</div>
+		<div class="item">
+			<p class="itemtext">Pergunta sobre eq. 2 grau</p>
+			<p class="itemtextseta">>></p>
+		</div>
+	</main>
+</body>
+</html>
