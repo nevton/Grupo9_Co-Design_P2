@@ -51,3 +51,25 @@
 	font-size: 4rem;
 	text-align: center;
 }
+
+.textoaqui {
+	display: flex;
+	height: 5rem;
+	width: 100%;
+}
+
+.caixa {
+	font-size: 2rem;
+	width: 90%;
+	background-color: #f0f0f0;
+	text-indent: 0.5rem;
+}
+
+.search {
+	display: flex;
+	justify-content: center;
+
+}
+.botao {
+	margin-left: 3rem;
+}
