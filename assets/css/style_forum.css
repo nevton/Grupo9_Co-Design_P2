@@ -26,7 +26,7 @@
 	height: 11%;
 	width: 11%;
 	margin-left: 0.6rem;
-	margin-top: 0.6rem;
+	margin-top: 1.2rem;
 }
 
 .container {
@@ -50,4 +50,33 @@
 .itemtext {
 	font-size: 4rem;
 	text-align: center;
+}
+
+.itemtextseta {
+	font-size: 4rem;
+	text-align: center;
+	font-weight: bold;
+}
+
+.textoaqui {
+	display: flex;
+	height: 5rem;
+	width: 100%;
+}
+
+.caixa {
+	font-size: 2rem;
+	width: 90%;
+	background-color: #f0f0f0;
+	text-indent: 0.5rem;
+}
+
+.search {
+	margin-top: 1rem;
+	display: flex;
+	justify-content: center;
+
+}
+.botao {
+	margin-left: 3rem;
 }

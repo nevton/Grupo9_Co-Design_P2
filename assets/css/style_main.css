@@ -27,6 +27,19 @@
 
 }
 
+.filtro{
+	display: flex;
+	
+
+}
+.M, .P, .L{
+	font-size: 4rem;
+	padding: 2rem;
+	margin: 1rem;
+	background-color: #e30000;
+	border-radius: 1rem;
+}
+
 .divb {
     color: #a0a0a0;
     font-size: 14px;
@@ -46,6 +59,7 @@
 	width: 90%;
 	background-color: #f0f0f0;
 	text-indent: 0.5rem;
+	border-radius: 2rem;
 }
 
 .body {
@@ -60,7 +74,8 @@
 	font-size: 4rem;
 	justify-content: center;
 	text-align: center;
-	background-color: #ffffff;
+	background-color: #ff00ff;
+	margin: 1rem;
 }
 
 .prof {
@@ -72,7 +87,7 @@
 	flex-direction: row;
 	text-align:center ;
 	position: absolute;
-	top: 16rem;
+	top: 24rem;
 	animation-name: fadeAnimation;
 	animation-duration: 0.8s;
 }
@@ -91,7 +106,9 @@
 	left: 40%;
 
 }
-
+.lupa{
+	margin: 
+}
 .prof_arrow{
 	position: absolute;
 	top: 38%;
@@ -101,6 +118,7 @@
 .botao{
 	padding-left: 1rem;
 	padding-right: 1rem;
+	border-radius: 2rem;
 }
 
 .turma {
@@ -110,7 +128,7 @@
 	width: 95%;
 	left: 2.5%;
 	position: absolute;
-	top: 29rem;
+	top: 37rem;
 	animation-name: fadeAnimation;
 	animation-duration: 0.8s;
 }
@@ -143,7 +161,7 @@
 	flex-direction: row;
 	text-align:center ;
 	position: absolute;
-	top: 42rem;
+	top: 50rem;
 	animation-name: fadeAnimation;
 	animation-duration: 0.8s;
 }
@@ -163,6 +181,73 @@
 }
 
 .forum_arrow{
+	position: absolute;
+	top: 38%;
+	right: 3%;
+}
+.fisica {
+	background-color: #2867b2;
+	border-radius: 1rem;
+	height: 12rem;
+	width: 95%;
+	left: 2.5%;
+	flex-direction: row;
+	text-align:center ;
+	position: absolute;
+	top: 63rem;
+	animation-name: fadeAnimation;
+	animation-duration: 0.8s;
+}
+
+.fisica_img{
+	border-radius: 4rem;
+	position: absolute;
+	top: 10%;
+	left: 3%;
+	height:8rem ;
+}
+
+.fisica_test{
+	position: absolute;
+	top: 32%;
+	left: 40%;
+}
+
+.fisica_arrow{
+	position: absolute;
+	top: 38%;
+	right: 3%;
+}
+
+.GA {
+	background-color: #2867b2;
+	border-radius: 1rem;
+	height: 12rem;
+	width: 95%;
+	left: 2.5%;
+	flex-direction: row;
+	text-align:center ;
+	position: absolute;
+	top: 76rem;
+	animation-name: fadeAnimation;
+	animation-duration: 0.8s;
+}
+
+.GA_img{
+	border-radius: 4rem;
+	position: absolute;
+	top: 10%;
+	left: 3%;
+	height:8rem ;
+}
+
+.GA_test{
+	position: absolute;
+	top: 32%;
+	left: 40%;
+}
+
+.GA_arrow{
 	position: absolute;
 	top: 38%;
 	right: 3%;
