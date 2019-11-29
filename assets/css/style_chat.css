@@ -108,3 +108,27 @@ img{
 	font-size: 12px;
 	margin: 8px 0 0;
 }
+.ongoing-chats{
+	overflow: hidden;
+	margin: 26px 20px;
+}
+.ongoing-chats-msg p{
+	background: #efefef none repeat scroll 0 0;
+	color: #004670;
+	border-radius: 10px;
+	font-size: 14px;
+	margin: 0;
+	padding: 5px 10px 5px 12px;
+	width: 100%; 
+}
+.ongoing-chats-msg{
+	float: left;
+	width: 46%;
+	margin-left: 45%;	
+}
+.ongoing-chats-img{
+	display: inline-block;
+	width: 20px;
+	float: right;
+
+}
