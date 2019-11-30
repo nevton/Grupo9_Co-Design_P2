@@ -1,5 +1,5 @@
 .header {
-	background-color: #475053;
+	background-color: #2867b2;
 	display: flex;
 	justify-content: space-between;
 }
@@ -29,7 +29,7 @@ img{
 	height: 10%;
 	border-bottom: none;
 	display: inline-block;
-	background-color: #0076bc;
+	background-color: #2867b2;
 }
 .msg-header-img{
 	border-radius: 50%;
@@ -146,7 +146,7 @@ img{
 
 }
 .msg-bottom{
-	background-color: #0076bc;
+	background-color: #2867b2;
 	position: relative;
 	height: 10%;
 	border-bottom: 1px solid black;
@@ -174,7 +174,7 @@ img{
 }
 
 .input-group .fa{
-	color: #004670;
+	color: #2867b2;
 	float: right;
 }
 
@@ -186,7 +186,7 @@ img{
 }
 
 .bottom-icons .fa{
-	color: #004670;
+	color: #2867b2;
 	font-size: 40px;
 	padding: 5px;
 }
