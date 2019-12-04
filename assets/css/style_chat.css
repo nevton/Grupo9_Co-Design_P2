@@ -148,7 +148,7 @@ img{
 .msg-bottom{
 	background-color: #2867b2;
 	position: relative;
-	height: 10%;
+	height: 20%;
 	border-bottom: 1px solid black;
 }
 
@@ -159,6 +159,7 @@ img{
 	outline: none !important;
 	border-radius: 20px;
 	width: 85% !important;
+	height: 20% !important;
 	background-color: #fff;
 }
 
@@ -175,6 +176,7 @@ img{
 
 .input-group .fa{
 	color: #2867b2;
+	font-size: 40px;
 	float: right;
 }
 
